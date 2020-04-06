@@ -2,6 +2,7 @@
 
 - hosts: rhel81
   become: yes
+  ignore_errors: true
   #remote_user: marc
   roles:
          - role: sap-preconfigure
