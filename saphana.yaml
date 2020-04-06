@@ -1,0 +1,8 @@
+
+
+- hosts: rhel81
+  become: yes
+  #remote_user: marc
+  roles:
+         - role: sap-preconfigure
+         - role: sap-hana-preconfigure
