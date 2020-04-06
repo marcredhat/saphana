@@ -1,0 +1,8 @@
+# From upstream 'sap-preconfigure' GitHub repository
+- src: https://github.com/linux-system-roles/sap-preconfigure.git
+
+# From upstream 'sap-hana-preconfigure' GitHub repository
+- src: https://github.com/linux-system-roles/sap-hana-preconfigure.git
+
+# From upstream 'sap-netweaver-preconfigure' GitHub repository
+- src: https://github.com/linux-system-roles/sap-netweaver-preconfigure.git
