@@ -36,4 +36,4 @@ rhel81:
     simple-rhel-8.1-[0:2]:
       ansible_python_interpreter: /usr/libexec/platform-python
   vars:
-      sap_preconfigure_modify_etc_hosts: yes
+      sap_preconfigure_modify_etc_hosts: no
